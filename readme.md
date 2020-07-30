@@ -27,9 +27,9 @@ This section lists important papers from which Software Analytics has emerged.
 
 ## Books
 
-- [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann, 2015.](https://github.com/ds4se/chapters)
-- [Tim Menzies, Laurie Williams, Thomas Zimmermann: Perspectives on Data Science for Software Engineering. Morgan Kaufmann, 2016.](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9)
-- [Adam Tornhill: Software X-Ray. Pragmatic Programmers, 2018.](https://pragprog.com/book/atevol/software-design-x-rays)
+- [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann, 2015.](https://github.com/ds4se/chapters) - a comprehensive work by some Software Analytics luminaries providing a good fundament for Software Analytics.
+- [Tim Menzies, Laurie Williams, Thomas Zimmermann: Perspectives on Data Science for Software Engineering. Morgan Kaufmann, 2016.](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9) - a collection of short articles in the area of Software Analytics. Good and neutral discussion of the advances in the field and the limits of data-driven approaches.
+- [Adam Tornhill: Software X-Ray. Pragmatic Programmers, 2018.](https://pragprog.com/book/atevol/software-design-x-rays) - a book full of great software analysis on real code bases.
 
 ## Industry Talks
 
