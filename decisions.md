@@ -18,7 +18,7 @@ There are plenty of tools out there that support Software Analytics tasks.
 There are too many tools to list, which could make the list too crowded and costly to maintain. The focus should be more toward the methodology of Software Analytics. Other awesome lists already list those tools, too.
 
 ### Decision
-There will be no section that lists tools for now. We add a meta section for the awesome lists that list those tools already.
+There will be no section that lists tools for now. We add a meta section for the lists that list those tools already.
 
 ### Consequences
 \+ Focussing more on practices and approaches of Software Analytics  
