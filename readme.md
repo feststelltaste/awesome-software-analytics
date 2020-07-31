@@ -3,6 +3,8 @@
 
 Curated list of awesome resources and links about Software Analytics.
 
+*This list is an open community project. Feel free to [contribute your ideas](contributing.md) to it.*
+
 **What is "Software Analytics"?**  
 
 > Software analytics is analytics on software data for managers and software engineers with the aim of empowering software development individuals and teams to gain and share insight from their data to make better decisions. 
@@ -15,7 +17,7 @@ Curated list of awesome resources and links about Software Analytics.
 - [Books](#books)
 - [Industry Talks](#industry-talks)
 
-## Historical Papers
+## Influential Papers
 
 This section lists important papers from which Software Analytics has emerged.
 
