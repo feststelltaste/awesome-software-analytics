@@ -43,4 +43,4 @@ Experience shared by people who applied Software Analytics in practice.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first and add your ideas!
