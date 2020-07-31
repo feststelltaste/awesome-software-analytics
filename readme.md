@@ -13,9 +13,10 @@ Curated list of awesome resources and links about Software Analytics.
 
 ## Contents
 
-- [Historical Papers](#historical-papers)
+- [Influential Papers](#historical-papers)
 - [Books](#books)
 - [Industry Talks](#industry-talks)
+- [Lists of Tools](#lists-of-tools)
 
 ## Influential Papers
 
@@ -40,6 +41,13 @@ Experience shared by people who applied Software Analytics in practice.
 - [Fix Your Microservice Architecture Using Graph Analysis](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
 - [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems
 
+## Lists of Tools
+
+There are plenty of tools out there that can support answering your questions in a data-driven way. This section lists existing lists so that you can find your tool that fit your specific needs:
+
+* [Analysis-Tools.dev](https://analysis-tools.dev/) - static analysis tools for many programming languages, build tools, config files and more.
+* [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
+* [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
 
 ## Contribute
 
