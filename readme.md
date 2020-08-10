@@ -65,7 +65,7 @@ Experience shared by people who applied Software Analytics in practice.
 
 ## Hands-Ons
 
-Acticities that let you experience Software Analytics all by yourself.
+Activities that let you experience Software Analytics all by yourself.
 
 - [Markus Harrer: Software Analytics Workshop (2019)](https://github.com/feststelltaste/software-analytics-workshop) - a repository with a guided tour through first software analysis using Data Science approaches und tools.
 
