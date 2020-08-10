@@ -20,6 +20,7 @@ _ordered by "from theory to practice"_
 - [Academic Courses](#academic-courses)
 - [Books](#books)
 - [Blog Posts](#blog-posts)
+- [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Hands-Ons](#hands-ons)
 - [Lists of Tools](#lists-of-tools)
@@ -58,6 +59,10 @@ Courses from the academic world that lecture Software Analytics in-depth.
 
 - [Greg Wilson: Using Data Science to Explore Software Development (2017)](https://www.datacamp.com/community/blog/data-science-software-engineering) - discusses the application of Data Science onto to answer questions that arose in software development projects.
 
+
+## Podcasts
+
+- [Thomas Zimmermann: The productive software engineer (2019)](https://www.microsoft.com/en-us/research/podcast/the-productive-software-engineer-with-dr-tom-zimmermann/) - an interview with Thomas Zimmermann about his current work on software analysis at Microsoft.
 
 ## Talks
 
