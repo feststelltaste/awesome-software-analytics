@@ -37,25 +37,25 @@ These meta research papers give an overview of existing papers and/or studies in
 
 ## Books
 
-- [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann, 2015.](https://github.com/ds4se/chapters) - a comprehensive work by some Software Analytics luminaries providing a good fundament for Software Analytics.
-- [Tim Menzies, Laurie Williams, Thomas Zimmermann: Perspectives on Data Science for Software Engineering. Morgan Kaufmann, 2016.](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9) - a collection of short articles in the area of Software Analytics. Good and neutral discussion of the advances in the field and the limits of data-driven approaches.
-- [Adam Tornhill: Software X-Ray. Pragmatic Programmers, 2018.](https://pragprog.com/book/atevol/software-design-x-rays) - a book full of great software analysis on real code bases.
+- [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann (2015)](https://github.com/ds4se/chapters) - a comprehensive work by some Software Analytics luminaries providing a good fundament for Software Analytics.
+- [Tim Menzies, Laurie Williams, Thomas Zimmermann: Perspectives on Data Science for Software Engineering. Morgan Kaufmann (2016)](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9) - a collection of short articles in the area of Software Analytics. Good and neutral discussion of the advances in the field and the limits of data-driven approaches.
+- [Adam Tornhill: Software X-Ray. Pragmatic Programmers (2018)](https://pragprog.com/book/atevol/software-design-x-rays) - a book full of great software analysis on real code bases.
 
 ## Industry Talks
 
 Experience shared by people who applied Software Analytics in practice.
 
-- [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant, 2015](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
-- [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis, 2019](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
-- [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters, 2019](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
-- [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science, 2020](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
-- [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More, 2018](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
+- [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant (2015)](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
+- [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis (2019)](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
+- [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters (2019)](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
+- [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science (2020)](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
+- [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
 
 ## Academic Courses
 
 Courses from the academic world that lecture Software Analytics in-depth.
 
-- [Canadian Summer School on Practical Analyses of Software Engineering Data, 2011](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
+- [Canadian Summer School on Practical Analyses of Software Engineering Data (2011)](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
 - [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses.
 
 ## Lists of Tools
