@@ -28,6 +28,13 @@ This section lists important papers from which Software Analytics has emerged.
 - [Ahmed E. Hassan and Tao Xie: Software intelligence: the future of mining software engineering data (2010)](https://www.researchgate.net/publication/221560786_Software_Intelligence_The_Future_of_Mining_Software_Engineering_Data_ABSTRACT) - discusses (among other topics) which types of software data can be used with existing data mining techniques.
 - [Tim Menzies and Thomas Zimmermann. Software Analytics: So What? (2013)](https://www.researchgate.net/publication/260649759_Software_Analytics_So_What) - contains a critical discussion on how far has Software Analytics got in the recent years.
 
+## Systematic Literature Reviews
+
+These meta research papers give an overview of existing papers and/or studies in the area of Software Analytics.
+
+- [Tamer Mohamed Abdellatif, Luiz Fernando Capretz, Danny Ho: Software Analytics to Software Practice - A Systematic Literature Review (2015)](https://arxiv.org/ftp/arxiv/papers/1511/1511.04109.pdf) - looks at past papers that applied Software Analytics in practice.
+- [João Caldeiraa, Fernando Brito e Abreua, Jorge Cardosob, Toacy Oliveira: Software Development Analytics in Practice - A Systematic Literature Review (2020)](https://arxiv.org/pdf/2007.10213) - provides an aggregate view of Software Development Analytics studies from 2010 to 2019.
+
 ## Books
 
 - [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann, 2015.](https://github.com/ds4se/chapters) - a comprehensive work by some Software Analytics luminaries providing a good fundament for Software Analytics.
