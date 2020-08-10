@@ -41,6 +41,12 @@ Experience shared by people who applied Software Analytics in practice.
 - [Fix Your Microservice Architecture Using Graph Analysis](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
 - [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems
 
+## Academic Courses
+
+Courses from the academic world that lecture Software Analytics in-depth.
+
+- [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses
+
 ## Lists of Tools
 
 There are plenty of tools out there that can support answering your questions in a data-driven way. This section lists existing lists so that you can find your tool that fit your specific needs:
