@@ -26,7 +26,7 @@ This section lists important papers from which Software Analytics has emerged.
 - [Tim Menzies, Christian Bird, Thomas Zimmermann, Wolfram Schulte, and Ekrem Kocaganeli: The inductive software engineering manifesto: principles for industrial data mining (2011)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.9342&rep=rep1&type=pdf) - Makes you aware of various aspects that you have to consider if you want to implement Software Analytics in the industry.
 - [Andrew Begel and Thomas Zimmermann: Analyze this! 145 questions for data scientists in software engineering (2013)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2013-111.pdf) - a kind of meta-level paper about the questions that arise during software development which may be answered with Software Analytics.
 - [Ahmed E. Hassan and Tao Xie: Software intelligence: the future of mining software engineering data (2010)](https://www.researchgate.net/publication/221560786_Software_Intelligence_The_Future_of_Mining_Software_Engineering_Data_ABSTRACT) - discusses (among other topics) which types of software data can be used with existing data mining techniques.
-- [Tim Menzies and Thomas Zimmermann. Software Analytics: So What? (2013)](https://www.researchgate.net/publication/260649759_Software_Analytics_So_What) - contains a critical discussion on how far has Software Analytics got in the recent years.
+- [Tim Menzies and Thomas Zimmermann. Software Analytics: So What? (2013)](https://www.researchgate.net/publication/260649759_Software_Analytics_So_What) - contains a critical discussion on how far has Software Analytics got in the recent years. Includes a short overview of influential papers as well.
 
 ## Systematic Literature Reviews
 
