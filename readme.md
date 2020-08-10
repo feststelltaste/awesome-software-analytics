@@ -72,4 +72,4 @@ There are plenty of tools out there that can support answering your questions in
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first and add your ideas!
+Did you like this list? Contributions are very welcome! Read the [contribution guidelines](contributing.md) first and add your ideas!
