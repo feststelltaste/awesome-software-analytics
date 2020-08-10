@@ -57,6 +57,7 @@ Courses from the academic world that lecture Software Analytics in-depth.
 
 Experience shared by people who applied Software Analytics in practice.
 
+- [Elmar Juergens: Mining Repository Data to Debug Software Development Teams (2016)](https://www.youtube.com/watch?v=HJg5l9KTLBk) - shows how version control systems can reveal communication problems in development teams.
 - [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant (2015)](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
 - [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis (2019)](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
 - [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters (2019)](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
