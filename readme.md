@@ -20,7 +20,7 @@ _ordered by "from theory to practice"_
 - [Academic Courses](#academic-courses)
 - [Books](#books)
 - [Blog Posts](#blog-posts)
-- [Industry Talks](#industry-talks)
+- [Talks](#talks)
 - [Hands-Ons](#hands-ons)
 - [Lists of Tools](#lists-of-tools)
 
@@ -59,7 +59,7 @@ Courses from the academic world that lecture Software Analytics in-depth.
 - [Greg Wilson: Using Data Science to Explore Software Development (2017)](https://www.datacamp.com/community/blog/data-science-software-engineering) - discusses the application of Data Science onto to answer questions that arose in software development projects.
 
 
-## Industry Talks
+## Talks
 
 Experience shared by people who applied Software Analytics in practice.
 
