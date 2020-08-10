@@ -13,7 +13,11 @@ Curated list of awesome resources and links about Software Analytics.
 
 ## Contents
 
-- [Influential Papers](#historical-papers)
+_ordered by "from theory to practice"_
+
+- [Influential Papers](#influential-papers)
+- [Systematic Literature Reviews](#systematic-literature-reviews)
+- [Academic Courses](#academic-courses)
 - [Books](#books)
 - [Industry Talks](#industry-talks)
 - [Lists of Tools](#lists-of-tools)
@@ -35,6 +39,13 @@ These meta research papers give an overview of existing papers and/or studies in
 - [Tamer Mohamed Abdellatif, Luiz Fernando Capretz, Danny Ho: Software Analytics to Software Practice - A Systematic Literature Review (2015)](https://arxiv.org/ftp/arxiv/papers/1511/1511.04109.pdf) - looks at past papers that applied Software Analytics in practice.
 - [João Caldeiraa, Fernando Brito e Abreua, Jorge Cardosob, Toacy Oliveira: Software Development Analytics in Practice - A Systematic Literature Review (2020)](https://arxiv.org/pdf/2007.10213) - provides an aggregate view of Software Development Analytics studies from 2010 to 2019.
 
+## Academic Courses
+
+Courses from the academic world that lecture Software Analytics in-depth.
+
+- [Canadian Summer School on Practical Analyses of Software Engineering Data (2011)](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
+- [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses.
+
 ## Books
 
 - [Christian Bird, Tim Menzies, Thomas Zimmermann: The Art and Science of Analyzing Software Data. Morgan Kaufmann (2015)](https://github.com/ds4se/chapters) - a comprehensive work by some Software Analytics luminaries providing a good fundament for Software Analytics.
@@ -50,13 +61,6 @@ Experience shared by people who applied Software Analytics in practice.
 - [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters (2019)](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
 - [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science (2020)](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
 - [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
-
-## Academic Courses
-
-Courses from the academic world that lecture Software Analytics in-depth.
-
-- [Canadian Summer School on Practical Analyses of Software Engineering Data (2011)](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
-- [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses.
 
 ## Lists of Tools
 
