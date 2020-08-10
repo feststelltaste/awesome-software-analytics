@@ -20,6 +20,7 @@ _ordered by "from theory to practice"_
 - [Academic Courses](#academic-courses)
 - [Books](#books)
 - [Industry Talks](#industry-talks)
+- [Hands-Ons](#hands-ons)
 - [Lists of Tools](#lists-of-tools)
 
 ## Influential Papers
@@ -61,6 +62,12 @@ Experience shared by people who applied Software Analytics in practice.
 - [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters (2019)](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
 - [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science (2020)](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
 - [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
+
+## Hands-Ons
+
+Acticities that let you experience Software Analytics all by yourself.
+
+- [Markus Harrer: Software Analytics Workshop (2019)](https://github.com/feststelltaste/software-analytics-workshop) - a repository with a guided tour through first software analysis using Data Science approaches und tools.
 
 ## Lists of Tools
 
