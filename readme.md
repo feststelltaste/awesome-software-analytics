@@ -40,15 +40,15 @@ Experience shared by people who applied Software Analytics in practice.
 
 - [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant, 2015](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
 - [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis, 2019](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
-- [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science, 2020](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems
+- [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science, 2020](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
 - [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More, 2018](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
 
 ## Academic Courses
 
 Courses from the academic world that lecture Software Analytics in-depth.
 
-- [Canadian Summer School on Practical Analyses of Software Engineering Data, 2011](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice
-- [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses
+- [Canadian Summer School on Practical Analyses of Software Engineering Data, 2011](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
+- [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses.
 
 ## Lists of Tools
 
