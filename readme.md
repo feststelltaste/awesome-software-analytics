@@ -73,7 +73,7 @@ Experience shared by people who applied Software Analytics in practice.
 - [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis (2019)](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
 - [Adam Tornhill: Prioritizing Technical Debt as if Time and Money Matters (2019)](https://www.youtube.com/watch?v=fl4aZ2KXBsQ) - a fresh look at version control data mining to uncover behavioral patterns of development organizations.
 - [Nicki Watt: Explore your Microservices Architecture with Graph Theory & Network Science (2020)](https://www.youtube.com/watch?v=0G5O1ffYIPI) - usage of graph-based algorithms to spot problems in large distrubuted software systems.
-- [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
+- [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](https://youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
 
 ## Hands-Ons
 
