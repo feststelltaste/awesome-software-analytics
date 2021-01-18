@@ -24,6 +24,7 @@ _ordered by "from theory to practice"_
 - [Talks](#talks)
 - [Hands-Ons](#hands-ons)
 - [Lists of Tools](#lists-of-tools)
+- [Related Awesome Lists](#related-awesome-lists)
 
 ## Influential Papers
 
@@ -91,6 +92,12 @@ There are plenty of tools out there that can support answering your questions in
 * [Analysis-Tools.dev](https://analysis-tools.dev/) - static analysis tools for many programming languages, build tools, config files and more.
 * [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
 * [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
+
+## Related Awesome Lists
+
+This section lists other awesome lists in the area of data analysis in software development.
+
+* [Awesome Empirical Software Engineering](https://github.com/dspinellis/awesome-msr) - a curated repository of software engineering repository mining data sets.
 
 ## Contribute
 
