@@ -9,7 +9,7 @@ Here we document significant decisions made that influence this curated list.
 ID: 001  
 Decision maker: @feststelltaste  
 Date: 31/07/2020  
-Status: DISCUSSION  
+Status: ACCEPTED
 
 ### Context
 There are plenty of tools out there that support Software Analytics tasks.
