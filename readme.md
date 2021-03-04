@@ -83,7 +83,8 @@ Experience shared by people who applied Software Analytics in practice.
 
 Activities that let you experience Software Analytics all by yourself.
 
-- [Markus Harrer: Software Analytics Workshop (2019)](https://github.com/feststelltaste/software-analytics-workshop) - a repository with a guided tour through first software analysis using Data Science approaches und tools.
+- [Markus Harrer: Software Analytics Workshop (2019)](https://github.com/feststelltaste/software-analytics-workshop-guided) - a repository with a guided tour through first software analysis using Data Science approaches und tools.
+- [Markus Harrer: Software Analytics Katas (2021)](https://github.com/feststelltaste/software-analytics-katas) - small challenges designed to train analytical thinking and the use of data-driven software analysis techniques.
 
 ## Lists of Tools
 
