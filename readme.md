@@ -47,7 +47,7 @@ These meta research papers give an overview of existing papers and/or studies in
 
 Courses from the academic world that lecture Software Analytics in-depth.
 
-- [Canadian Summer School on Practical Analyses of Software Engineering Data (2011)](http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice.
+- [Canadian Summer School on Practical Analyses of Software Engineering Data (2011)](https://web.archive.org/web/20191222030415/http://pased.soccerlab.polymtl.ca/schedule.php) - a collection of talks about early adoptions of Software Analytics in practice. _February 2022: unfortunately, this site is gone now. Link leads to archive.org._
 - [Prof. Dr. Jürgen Döllner: Automated Visual Software Analytics (2015)](https://open.hpi.de/courses/softwareanalytics2015) - Very detailed and precise explanations with focus on the visualization of software analyses.
 
 ## Books
