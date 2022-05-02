@@ -100,6 +100,7 @@ There are plenty of tools out there that can support answering your questions in
 This section lists other awesome lists in the area of data analysis in software development.
 
 * [Awesome Empirical Software Engineering](https://github.com/dspinellis/awesome-msr) - a curated repository of software engineering repository mining data sets.
+* [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) - a curated list of awesome network analysis resources. If you want to dig deeper into graph-based analysis of software, you can find plenty of resources in this list.
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) - cool links & research papers related to Machine Learning applied to source code (MLonCode).
 
 ## Contribute
