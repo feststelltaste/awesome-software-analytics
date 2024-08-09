@@ -22,6 +22,7 @@ _ordered by "from theory to practice"_
 - [Blog Posts](#blog-posts)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
+- [Microsites](#microsites)
 - [Hands-Ons](#hands-ons)
 - [Lists of Tools](#lists-of-tools)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -80,6 +81,11 @@ Experience shared by people who applied Software Analytics in practice.
 - [Thomas Zimmermann: Software Productivity Decoded: How Data Science helps to Achieve More (2018)](https://youtube.com/watch?v=I_AVRfAS7Eg) - talk with an introduction to Software Analytics and its application in Microsoft.
 
 
+## Microsites
+
+Sites that collect various resources around Software Analytics topics:
+
+- [The Softvis Collection: A collection of beautiful and useful software visualizations](https://www.softviscollection.org/) - an older website that provides some ideas for software visualization including real-world examples.
 
 ## Hands-Ons
 
