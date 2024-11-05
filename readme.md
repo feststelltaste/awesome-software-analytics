@@ -70,8 +70,9 @@ Courses from the academic world that lecture Software Analytics in-depth.
 
 Experience shared by people who applied Software Analytics in practice.
 
+- [Justine Gehring: Code Graveyards: Resurrecting Legacy Systems with OpenRewrite](https://www.youtube.com/watch?v=rVpuFxpOPn4) - introduction to automated code improvement with the deterministic OpenRewrite refactoring engine in the era of Large Language Models.
 - [Elmar Juergens: Mining Repository Data to Debug Software Development Teams (2016)](https://www.youtube.com/watch?v=HJg5l9KTLBk) - shows how version control systems can reveal communication problems in development teams.
-- [StephanLaRocca: Dependency Analysis of Legacy Applications with Oracle Graph (2021](https://www.youtube.com/watch?v=6pzXxvT8BRk) - demonstrates the usage of graph technology to analyze legacy systems to find bounded contexts, support effective testing, and identify the most important business processes within an application.
+- [Stephan LaRocca: Dependency Analysis of Legacy Applications with Oracle Graph (2021](https://www.youtube.com/watch?v=6pzXxvT8BRk) - demonstrates the usage of graph technology to analyze legacy systems to find bounded contexts, support effective testing, and identify the most important business processes within an application.
 - [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant (2015)](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
 - [Nicolas Mervaillie: Fix Your Microservice Architecture Using Graph Analysis (2019)](https://www.youtube.com/watch?v=EVtD7OCUIac) - graph-based software analysis is used to analyze a distributed system.
 - [Margaret-Anne Storey: Lies, Damned Lies and Software Analytics (2015)](https://www.youtube.com/watch?v=Ujm4G7ayRQQ) - an overview of the history and goals of Software Analytics. I especially like the part where Margaret talks about the risks of Software Analytics like data quality issues, missing trustworthiness of results, and ethical concerns.
