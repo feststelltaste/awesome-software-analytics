@@ -70,7 +70,7 @@ Courses from the academic world that lecture Software Analytics in-depth.
 
 Experience shared by people who applied Software Analytics in practice.
 
-- [Justine Gehring: Code Graveyards: Resurrecting Legacy Systems with OpenRewrite](https://www.youtube.com/watch?v=rVpuFxpOPn4) - introduction to automated code improvement with the deterministic OpenRewrite refactoring engine in the era of Large Language Models.
+- [Justine Gehring: Code Graveyards: Resurrecting Legacy Systems with OpenRewrite (2024)](https://www.youtube.com/watch?v=rVpuFxpOPn4) - introduction to automated code improvement with the deterministic OpenRewrite refactoring engine in the era of Large Language Models.
 - [Elmar Juergens: Mining Repository Data to Debug Software Development Teams (2016)](https://www.youtube.com/watch?v=HJg5l9KTLBk) - shows how version control systems can reveal communication problems in development teams.
 - [Stephan LaRocca: Dependency Analysis of Legacy Applications with Oracle Graph (2021](https://www.youtube.com/watch?v=6pzXxvT8BRk) - demonstrates the usage of graph technology to analyze legacy systems to find bounded contexts, support effective testing, and identify the most important business processes within an application.
 - [Dirk Mahler: Yes We Scan! Software Analysis Using jQAssistant (2015)](https://www.youtube.com/watch?v=6jDdhW1Wu6A) - software analysis of industry software projects using a graph database.
