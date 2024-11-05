@@ -60,7 +60,7 @@ Courses from the academic world that lecture Software Analytics in-depth.
 ## Blog Posts
 
 - [Greg Wilson: Using Data Science to Explore Software Development (2017)](https://www.datacamp.com/community/blog/data-science-software-engineering) - discusses the application of Data Science onto software data to answer questions that arise in software development projects.
-- [Prof. Dr. Rainer Koschke: Software Analytics in komplexen Software-Projekten](https://www.embedded-software-engineering.de/software-analytics-in-komplexen-software-projekten-a-837834/) - introductory article on Software Analytics (written in German).
+- [Prof. Dr. Rainer Koschke: Software Analytics in komplexen Software-Projekten (2019)](https://www.embedded-software-engineering.de/software-analytics-in-komplexen-software-projekten-a-837834/) - introductory article on Software Analytics (written in German).
 
 ## Podcasts
 
